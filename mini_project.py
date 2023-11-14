@@ -50,7 +50,6 @@ def regressionmodel(dataset):
     
     regressor = LinearRegression()
     regressor.fit(X_train, y_train)
-
     #predicting the Test set results
     y_pred = regressor.predict(X_test)
     np.set_printoptions(precision=2)
