@@ -11,7 +11,6 @@ Welcome to the Power Consumption Analysis tool! This Python script provides func
     - [4. Main](#4-main)
 - [Note](#note)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 
 ## Functions
 
